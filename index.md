@@ -4,9 +4,17 @@ You can use the [editor on GitHub](https://github.com/scottwparker/thd-ems-docs.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Why EMS?
+- Committed to providing value to our customers.
+- Collect, analyze, visualize, and notify your data.
+- Provide industry-leading open source, third party, and internally developed solutions.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# EMS Services
+
+1. End user experience
+2. Application performance
+3. Infrastructure performance
+4. Core services
 
 ```markdown
 Syntax highlighted code block
